@@ -1,5 +1,4 @@
 import React from "react";
-
 const Button = ({ className, text, type }) => {
   return (
     <div>
