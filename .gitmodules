@@ -1,0 +1,3 @@
+[submodule "next-submod"]
+	path = next-submod
+	url = https://github.com/hassan4702/next-submod
